@@ -1,0 +1,49 @@
+{
+  "businessName": "DY Enterprises",
+  "industry": "Manufacturing",
+  "tone": "professional",
+  "tagline": "Engineering Excellence in Manufacturing Solutions",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "DY Enterprises - Your Trusted Manufacturing Partner in Niger State. We deliver precision-engineered manufacturing solutions with cutting-edge technology and uncompromising quality standards. Located in Minna, serving businesses across Nigeria with excellence and reliability.",
+      "imagePrompt": "Modern industrial manufacturing facility in Nigeria with state-of-the-art machinery, clean factory floor with bright overhead lighting, workers in safety gear operating precision equipment, steel structures and metal fabrication in progress, professional industrial photography, high quality, sharp focus, vibrant colors showing productivity and innovation",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "DY Enterprises is a leading manufacturing company based in the Military Cantonment area of Minna, Niger State. We combine technical expertise with modern manufacturing capabilities to deliver superior products and services to our clients. Our commitment to quality, precision, and timely delivery has established us as a trusted partner for businesses requiring reliable manufacturing solutions. With strategic location in Chanchaga, we serve clients across Niger State and beyond, maintaining the highest standards of operational excellence and customer satisfaction.",
+      "imagePrompt": "Professional Nigerian manufacturing team in a modern factory setting, diverse group of engineers and technicians reviewing blueprints and quality control documents, industrial background with machinery, natural lighting through large windows, confident and focused expressions, business casual attire with safety vests, photorealistic, high resolution",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "At DY Enterprises, we offer comprehensive manufacturing solutions tailored to meet diverse industrial needs:\n\n• Custom Manufacturing: Precision fabrication and production services designed to your exact specifications\n\n• Metal Fabrication: Expert welding, cutting, and forming of metal components for various applications\n\n• Quality Assurance: Rigorous testing and inspection protocols ensuring products meet international standards\n\n• Industrial Supply: Reliable sourcing and supply of quality manufacturing materials and components\n\n• Maintenance & Support: Technical assistance and maintenance services to keep your operations running smoothly\n\n• Consultancy Services: Expert guidance on manufacturing processes, efficiency optimization, and quality improvement\n\nWe leverage advanced equipment and skilled personnel to deliver results that exceed expectations, on time and within budget.",
+      "imagePrompt": "Grid layout of manufacturing processes in a Nigerian factory - welding sparks flying, CNC machines cutting metal precisely, quality inspector with measuring instruments, warehouse with organized industrial materials, all in professional industrial setting, bright lighting, clean organized workspace, photorealistic industrial photography, sharp details",
+      "layout": "cards"
+    },
+    {
+      "id": "why-choose-us",
+      "name": "Why Choose DY Enterprises",
+      "copy": "Experience and Expertise: Years of proven track record in delivering quality manufacturing solutions across multiple sectors.\n\nAdvanced Technology: We invest in modern machinery and equipment to ensure precision and efficiency in every project.\n\nQuality Commitment: Stringent quality control measures at every stage of production guarantee superior results.\n\nTimely Delivery: We understand the importance of deadlines and consistently deliver projects on schedule.\n\nCompetitive Pricing: Cost-effective solutions without compromising on quality or reliability.\n\nLocal Understanding: As a Niger State-based company, we understand the unique needs and challenges of businesses in our region and across Nigeria.\n\nCustomer Focus: Your satisfaction is our priority. We work closely with clients to ensure their specific requirements are met with precision.",
+      "imagePrompt": "Modern Nigerian manufacturing facility exterior shot, impressive industrial building with company signage, well-maintained premises with security fencing, trucks loading finished products, blue sky background, professional corporate photography, wide angle view showing scale and professionalism, daytime natural lighting",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Ready to discuss your manufacturing needs? Get in touch with DY Enterprises today.\n\nVisit Our Facility:\nMilitary Cantonment, Minna\nChanchaga, Niger State, Nigeria\n\nCall Us:\n+234 810 186 6899\n\nWhatsApp:\nClick to chat with us instantly for quick inquiries and quotations.\n\nBusiness Hours:\nMonday - Friday: 8:00 AM - 5:00 PM\nSaturday: 9:00 AM - 2:00 PM\n\nWhether you need a custom manufacturing solution, quality materials, or expert consultation, our team is ready to assist you. Contact us today to learn how DY Enterprises can support your business growth with reliable manufacturing services.",
+      "imagePrompt": "Professional Nigerian business office reception area, modern clean interior with company branding, comfortable seating area, receptionist at desk with computer, industrial design elements, large windows with natural light, plants adding warmth, welcoming atmosphere, corporate photography style, high quality",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "+234 810 186 6899",
+    "email": "info@dyenterprises.ng",
+    "address": "Military Cantonment, Minna, Chanchaga, Niger State, Nigeria",
+    "whatsapp": "https://wa.me/2348101866899"
+  }
+}
